@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WECHAT">
+        <wb-resource deploy-path="/" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/.apt_generated"/>
+        <dependent-module archiveName="httpmime-4.3.5.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/httpmime-4.3.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.3.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/commons-logging-1.1.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="httpclient-4.3.5.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/httpclient-4.3.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="dom4j-1.6.1.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/dom4j-1.6.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javabase64-1.3.1.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/javabase64-1.3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xstream-1.3.1.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/xstream-1.3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="fastjson-1.1.27.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/fastjson-1.1.27.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="httpcore-4.3.2.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/httpcore-4.3.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-codec-1.8.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/commons-codec-1.8.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-api-2.0.2.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/log4j-api-2.0.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-core-2.0.2.jar" deploy-path="/" handle="module:/classpath/lib/D:/SVN_TCIW/RESOURCE/EXT/log4j-core-2.0.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
